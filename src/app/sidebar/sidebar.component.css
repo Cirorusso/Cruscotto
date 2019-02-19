@@ -1,0 +1,41 @@
+.wrapper {
+    display: left;
+    align-items: stretch;
+    width: 20%;
+    height: 100%;
+}
+
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    height: 100%;
+}
+
+#sidebar.active {
+    margin-left: -250px;
+}
+#john {
+  background-color: darkgrey;
+  color: white;
+}
+#scudo {
+  width: 40px;
+  height: 40px;
+  margin-bottom: 35px;
+  margin-top: 15px;
+  margin-left: 35px;
+  border-radius: 50px;
+  border-color: grey;
+}
+#p {
+  margin-left: 25px;
+}
+li:hover {
+  background-color: darkcyan;
+}
+a {
+  color: grey;
+}
+ul {
+  height:100%;
+}

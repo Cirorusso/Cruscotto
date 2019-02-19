@@ -1,0 +1,23 @@
+#div {
+  display: flex;
+  height: 100%;
+}
+#p {
+  margin-top: 40px;
+}
+button {
+  width: auto;
+  height: 40px;
+  margin-top: 0px;
+  padding-right: 10px;
+  background-color: red;
+  color: white;
+}
+#asd {
+   box-shadow: 1px 1px 1px grey;
+   width: 100%;
+   height: auto;
+}
+app-sidebar {
+  height:100%;
+}
